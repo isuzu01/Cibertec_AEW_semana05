@@ -1,0 +1,28 @@
+body{
+    background-color: beige;
+}
+h1, h2{
+    color: red;
+}
+h1 span{
+    font-style: italic;
+    letter-spacing: 3px;
+}
+
+p{
+    text-align: justify;
+    font-size: 15pt;
+}
+p strong{
+    color: green;
+}
+p em{
+    color: orange;
+}
+p strong em{
+    color: brown;
+}
+a span{
+    font-weight: bold;
+    letter-spacing: 5px;
+}
